@@ -1,0 +1,10 @@
+string id
+string type
+string time
+string received_time
+string received_cmd
+string received_revision
+r_pose_optional received_destination
+r_costmap received_costmap
+string result
+string[] errors
